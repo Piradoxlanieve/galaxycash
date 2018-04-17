@@ -74,6 +74,8 @@ BTC:                                        12AVNXAP72cXez9JN7F4FQZy6Vtf5DzVJR
 
 BCH:                                        qqxv8rtf8l6wr7upz9apmtq7zk3yl732wqwyc9sje0
 
+CROC:                                       CemqYDB7aXPFQ5vUrpSgHCU3ujQkhYb2Vw
+
 DASH:                                       XqnsZkSFcdmjXwcokPyWGq1wZaoVkGxkBL
 
 LTC:                                        LRWxNrvfKJVTABW9c9v8xJjMjPy9EB35SP
